@@ -134,9 +134,9 @@ http://223.110.242.130:6610/gitv/live1/G_XUANDONG/G_XUANDONG/#http://223.110.245
 http://223.110.242.130:6610/gitv/live1/G_KAKU/G_KAKU/#http://223.110.245.143/ott.js.chinamobile.com/PLTV/3/224/3221226097/index.m3u8
 
 #EXTINF:-1 tvg-logo="凤凰中文.png" tvg-name="凤凰卫视" group-title="港澳台",凤凰卫视
-http://slave.pygdzhcs.com:13164/playurl?playtype=live&protocol=1http&accesstoken=R5AF11F6AU30878066K77541996IA249E2DDPBM306AB28WDE06ADB1CA1&programid=4200000110&playtoken=no&auth=no#http://slave.pygdzhcs.com:13164/playurl?playtype=live&protocol=1http&accesstoken=R5AF11F6AU30878066K77541996IA249E2DDPBM306AB28WDE06ADB1CA1&programid=4200000111&playtoken=no&auth=no#http://183.207.249.35/PLTV/3/224/3221226922/index.m3u8#http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8#http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225900/1.m3u8#http://111.40.205.87/PLTV/88888888/224/3221225684/index.m3u8
+http://111.40.205.87/PLTV/88888888/224/3221225684/index.m3u8
 #EXTINF:-1 tvg-logo="凤凰资讯.png" tvg-name="凤凰资讯" group-title="港澳台",凤凰资讯
-http://183.207.249.35/PLTV/3/224/3221226923/index.m3u8#http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8#http://ott.fj.chinamobile.com//PLTV/88888888/224/3221225901/1.m3u8#http://111.40.205.87/PLTV/88888888/224/3221225686/index.m3u8
+http://111.40.205.87/PLTV/88888888/224/3221225686/index.m3u8
 #EXTINF:-1 tvg-logo="凤凰香港.png" tvg-name="凤凰香港" group-title="港澳台",凤凰香港
 http://183.207.249.34/PLTV/3/224/3221226975/index.m3u8
 #EXTINF:-1 tvg-logo="凤凰电影.png" tvg-name="凤凰电影" group-title="港澳台",凤凰电影
