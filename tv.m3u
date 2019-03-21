@@ -160,31 +160,12 @@ http://slave.pygdzhcs.com:13164/playurl?playtype=live&protocol=1http&accesstoken
 
 #EXTINF:-1 tvg-logo="香港卫视.png" tvg-name="香港卫视" group-title="港澳台",香港卫视HKS
 http://zhibo.hkstv.tv/livestream/zb2yhapo/playlist.m3u8
-#EXTINF:-1 tvg-logo="壹新闻.png" tvg-name="壹電視新聞" group-title="港澳台",壹新闻
-http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv3/chunklist.m3u8
-#EXTINF:-1 tvg-logo="卫视卡式台.png" tvg-name="卫视卡式台" group-title="港澳台",卫视卡式台
-http://iliketot.dyndns.tv/c8233976dbba4a06a101780907447375.m3u8
-#EXTINF:-1 tvg-logo="卫视中文台.png" tvg-name="卫视中文" group-title="港澳台",卫视中文台
-http://iliketot.dyndns.tv/29a09591a6604ff3b798cd7ef809e4bd.m3u8
-#EXTINF:-1 tvg-logo="MTV.png" tvg-name="MTV亚洲" group-title="港澳台",MTV亚洲
-http://103.242.13.90:5555/udp/239.4.1.71:10000
-#EXTINF:-1 tvg-logo="V.png" tvg-name="CHANNELV音乐" group-title="港澳台",Channel [V]音乐
-http://103.242.13.90:5555/udp/239.4.1.34:10000
 #EXTINF:-1 tvg-logo="HBO.png" tvg-name="HBO电影HD" group-title="港澳台",HBO电影
 http://218.202.220.2:5000/nn_live.ts?id=HBO#http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8#http://161.0.157.38/PLTV/88888888/224/3221226127/index.m3u8
 #EXTINF:-1 tvg-logo="CGNTV.png" tvg-name="CGNTV中文台" group-title="港澳台",CGNTV中文台
 http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_ch/playlist.m3u8
-#EXTINF:-1 tvg-logo="探索频道.png" tvg-name="探索频道" group-title="港澳台",探索频道
-http://222.207.48.30/hls/discovery.m3u8
-#EXTINF:-1 tvg-logo="民视.png" tvg-name="民视频道" group-title="港澳台",台湾民视HD
-http://60.251.37.44:8080/live/super7659.m3u8
 #EXTINF:-1 tvg-logo="good1.png" tvg-name="GoodTV好消息" group-title="港澳台",GoodTVGoodTV好消息
 http://live.streamingfast.net/osmflivech1.m3u8
-#EXTINF:-1 tvg-logo="三立.png" tvg-name="三立新闻" group-title="港澳台",三立新闻HD
-http://60.199.188.61/HLS/WG_ETTV-N/01.m3u8
-#EXTINF:-1 tvg-logo="tvbsnews.png" tvg-name="tvbs新闻" group-title="港澳台",TVBS新闻HD
-http://60.199.188.61/HLS/WG_TVBS-N/02.m3u8
-
 
 #EXTINF:-1 tvg-logo="交通.png" tvg-name="中国交通" group-title="数字网络",中国交通
 http://223.110.242.130:6610/gitv/live1/G_ZHONGGUOJT/G_ZHONGGUOJT/
@@ -192,12 +173,8 @@ http://223.110.242.130:6610/gitv/live1/G_ZHONGGUOJT/G_ZHONGGUOJT/
 http://223.110.245.157/ott.js.chinamobile.com/PLTV/3/224/3221227438/index.m3u8
 #EXTINF:-1 tvg-logo="都市剧场.png" tvg-name="都市剧场" group-title="数字网络",都市剧场
 http://223.110.245.149/ott.js.chinamobile.com/PLTV/3/224/3221226029/index.m3u8
-#EXTINF:-1 tvg-logo="劲爆体育.png" tvg-name="劲爆体育" group-title="数字网络",劲爆体育
-http://183.207.249.7/PLTV/2/224/3221226045/index.m3u8#http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226139/index.m3u8#http://112.50.243.7/PLTV/88888888/224/3221226139/index.m3u8#http://39.134.52.180/PLTV/88888888/224/3221225784/index.m3u8
-#EXTINF:-1 tvg-logo="五星体育.png" tvg-name="五星体育" group-title="数字网络",五星体育
-http://223.110.245.147/ott.js.chinamobile.com/PLTV/3/224/3221226799/index.m3u8
 #EXTINF:-1 tvg-logo="新华新闻.png" tvg-name="新华电视" group-title="数字网络",新华新闻
-http://live.xinhuashixun.com/live/chn01/desc.m3u8#http://223.110.245.170/PLTV/3/224/3221227441/index.m3u8
+http://live.xinhuashixun.com/live/chn01/desc.m3u8
 #EXTINF:-1 tvg-logo="C情感影院.png" tvg-name="CIBN情感影院" group-title="数字网络",CIBN情感影院
 http://gs.moli.ds.lunbocl.ott.cibntv.net/hls/vCIBNQGYY/1800/vCIBNQGYY.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
 #EXTINF:-1 tvg-logo="C精品影院.png" tvg-name="CIBN精品影院" group-title="数字网络",CIBN精品影院
