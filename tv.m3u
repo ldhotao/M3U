@@ -33,6 +33,22 @@ http://223.110.242.130:6610/gitv/live1/G_CCTV-14/G_CCTV-14/#http://223.110.245.1
 http://223.110.242.130:6610/gitv/live1/G_CCTV-15/G_CCTV-15/#http://183.207.249.6/PLTV/3/224/3221225568/index.m3u8
 #EXTINF:-1 tvg-logo="CGTN.png" tvg-name="CGTN" group-title="央视台",中国国际电视台
 http://223.110.242.130:6610/gitv/live1/G_CCTV-NEWS/G_CCTV-NEWS/#http://183.207.249.34/PLTV/3/224/3221225572/index.m3u8
+#EXTINF:-1 tvg-logo="CCTV.png" tvg-name="CCTV老故事" group-title="央视台",CCTV老故事
+http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000624/index.m3u8
+#EXTINF:-1 tvg-logo="CCTV.png" tvg-name="CCTV央视文化精品" group-title="央视台",CCTV央视文化精品
+hthttp://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000621/index.m3u8
+#EXTINF:-1 tvg-logo="CCTV.png" tvg-name="CCTV怀旧剧场" group-title="央视台",CCTV怀旧剧场
+http://223.99.184.42:8089/PLTV/88888888/224/3221226007/1.m3u8
+#EXTINF:-1 tvg-logo="CCTV.png" tvg-name="CCTV第一剧场" group-title="央视台",CCTV第一剧场
+http://223.99.184.42:8089/PLTV/88888888/224/3221226000/1.m3u8
+#EXTINF:-1 tvg-logo="CCTV.png" tvg-name="CCTV风云足球" group-title="央视台",CCTV风云足球
+http://223.99.184.42:8089/PLTV/88888888/224/3221226004/1.m3u8
+#EXTINF:-1 tvg-logo="CCTV.png" tvg-name="CCTV风云音乐" group-title="央视台",CCTV风云音乐
+http://223.99.184.42:8089/PLTV/88888888/224/3221225999/1.m3u8
+#EXTINF:-1 tvg-logo="CCTV.png" tvg-name="CCTV世界地理" group-title="央视台",CCTV世界地理
+http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000615/index.m3u8
+#EXTINF:-1 tvg-logo="CCTV.png" tvg-name="CCTV风云剧场" group-title="央视台",CCTV风云剧场
+http://223.99.184.42:8089/PLTV/88888888/224/3221226003/1.m3u8
 
 #EXTINF:-1 tvg-logo="吉林.png" tvg-name="吉林卫视" group-title="卫视",吉林卫视
 http://223.110.242.130:6610/gitv/live1/G_JILIN/G_JILIN/
