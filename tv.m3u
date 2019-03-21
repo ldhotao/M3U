@@ -195,6 +195,12 @@ http://223.110.245.149/ott.js.chinamobile.com/PLTV/3/224/3221226029/index.m3u8
 http://live.xinhuashixun.com/live/chn01/desc.m3u8
 #EXTINF:-1 tvg-logo="交通.png" tvg-name="中国交通" group-title="数字网络",法治天地
 http://183.207.248.15/PLTV/2/224/3221226027/index.m3u8
+#EXTINF:-1 tvg-logo="环球奇观.png" tvg-name="环球奇观" group-title="数字网络",环球奇观
+http://223.99.184.42:8089/PLTV/88888888/224/3221226011/1.m3u8
+#EXTINF:-1 tvg-logo="全纪实.png" tvg-name="全纪实" group-title="数字网络",上海全纪实
+http://183.207.248.15/PLTV/2/224/3221226414/index.m3u8
+#EXTINF:-1 tvg-logo="北京纪实.png" tvg-name="北京纪实" group-title="数字网络",北京纪实
+http://223.110.243.169/PLTV/3/224/3221227397/index.m3u8
 #EXTINF:-1 tvg-logo="C情感影院.png" tvg-name="CIBN情感影院" group-title="数字网络",CIBN情感影院
 http://gs.moli.ds.lunbocl.ott.cibntv.net/hls/vCIBNQGYY/1800/vCIBNQGYY.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
 #EXTINF:-1 tvg-logo="C精品影院.png" tvg-name="CIBN精品影院" group-title="数字网络",CIBN精品影院
