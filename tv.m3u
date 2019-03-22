@@ -212,6 +212,10 @@ http://183.207.248.15/PLTV/2/224/3221226414/index.m3u8
 http://223.110.243.169/PLTV/3/224/3221227397/index.m3u8
 #EXTINF:-1 tvg-logo="上海纪实.png" tvg-name="上海纪实" group-title="数字网络",上海纪实
 纪实频道HD,http://http://112.50.243.7/PLTV/88888888/224/3221225946/1.m3u8
+#EXTINF:-1 tvg-logo="金鹰纪实.png" tvg-name="金鹰纪实" group-title="数字网络",金鹰纪实
+http://112.17.40.140/PLTV/88888888/224/3221226831/index.m3u8
+#EXTINF:-1 tvg-logo="探索频道.png" tvg-name="探索频道" group-title="数字网络",求索纪录频道
+http://112.17.40.140/PLTV/88888888/224/3221226610/index.m3u8
 
 #EXTINF:-1 tvg-logo="C情感影院.png" tvg-name="CIBN情感影院" group-title="数字网络",CIBN情感影院
 http://gs.moli.ds.lunbocl.ott.cibntv.net/hls/vCIBNQGYY/1800/vCIBNQGYY.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
