@@ -203,6 +203,30 @@ http://112.50.243.8/PLTV/88888888/224/3221226777/1.m3u8
 http://112.50.243.7/PLTV/88888888/224/3221226760/2.m3u8
 #EXTINF:-1 tvg-logo="厦门电视台.png" tvg-name="厦门卫视" group-title="地方电视",厦门4套
 http://112.50.243.7/PLTV/88888888/224/3221226764/2.m3u8
+#EXTINF:-1 tvg-logo="浙江电视台.png" tvg-name="浙江公共新闻" group-title="地方电视",浙江公共新闻频道
+http://112.17.40.140/PLTV/88888888/224/3221226324/index.m3u8
+#EXTINF:-1 tvg-logo="浙江电视台.png" tvg-name="浙江教育科技" group-title="地方电视",浙江教育科技频道
+http://112.17.40.140/PLTV/88888888/224/3221226118/index.m3u8
+#EXTINF:-1 tvg-logo="浙江电视台.png" tvg-name="浙江经济生活" group-title="地方电视",浙江经济生活
+http://112.17.40.140/PLTV/88888888/224/3221226423/index.m3u8
+#EXTINF:-1 tvg-logo="浙江电视台.png" tvg-name="浙江民生频道" group-title="地方电视",浙江民生频道
+http://112.17.40.140/PLTV/88888888/224/3221226237/index.m3u8
+#EXTINF:-1 tvg-logo="浙江电视台.png" tvg-name="浙江少儿" group-title="地方电视",浙江少儿
+http://112.17.40.140/PLTV/88888888/224/3221226251/index.m3u8
+#EXTINF:-1 tvg-logo="浙江电视台.png" tvg-name="浙江影视娱乐" group-title="地方电视",浙江影视娱乐
+http://112.17.40.140/PLTV/88888888/224/3221226273/index.m3u8
+#EXTINF:-1 tvg-logo="浙江电视台.png" tvg-name="钱江电视" group-title="地方电视",钱江电视
+http://112.17.40.140/PLTV/88888888/224/3221226275/index.m3u8
+#EXTINF:-1 tvg-logo="宁波电视台.png" tvg-name="宁波都市文体" group-title="地方电视",宁波都市文体频道
+http://112.17.40.140/PLTV/88888888/224/3221226740/index.m3u8
+#EXTINF:-1 tvg-logo="宁波电视台.png" tvg-name="宁波经济生活" group-title="地方电视",宁波经济生活频道
+http://112.17.40.140/PLTV/88888888/224/3221226833/index.m3u8
+#EXTINF:-1 tvg-logo="宁波电视台.png" tvg-name="宁波少儿" group-title="地方电视",宁波少儿频道
+http://112.17.40.140/PLTV/88888888/224/3221226742/index.m3u8
+#EXTINF:-1 tvg-logo="宁波新闻电视台.png" tvg-name="宁波新闻综合" group-title="地方电视",宁波新闻综合频道
+http://112.17.40.140/PLTV/88888888/224/3221226736/index.m3u8
+#EXTINF:-1 tvg-logo="浙江电视台.png" tvg-name="宁波影视剧" group-title="地方电视",宁波影视剧频道
+http://112.17.40.140/PLTV/88888888/224/3221226835/index.m3u8
 
 #EXTINF:-1 tvg-logo="交通.png" tvg-name="中国交通" group-title="数字网络",中国交通
 http://223.110.242.130:6610/gitv/live1/G_ZHONGGUOJT/G_ZHONGGUOJT/
