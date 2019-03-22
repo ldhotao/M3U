@@ -182,6 +182,18 @@ http://218.202.220.2:5000/nn_live.ts?id=HBO#http://161.0.157.5/PLTV/88888888/224
 http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_ch/playlist.m3u8
 #EXTINF:-1 tvg-logo="good1.png" tvg-name="GoodTV好消息" group-title="港澳台",GoodTVGoodTV好消息
 http://live.streamingfast.net/osmflivech1.m3u8
+#EXTINF:-1 tvg-logo="星卫电影.png" tvg-name="星卫电影" group-title="港澳台", 星卫电影台
+http://122.146.68.116:4048/VideoInput/play.ts
+#EXTINF:-1 tvg-logo="卫视电影.png" tvg-name="卫视电影" group-title="港澳台", 卫视电影HD
+http://122.146.68.116:4016/VideoInput/play.ts
+#EXTINF:-1 tvg-logo="中天综合.png" tvg-name="中天综合" group-title="港澳台",中天综合
+http://122.146.68.116:4005/VideoInput/play.ts
+#EXTINF:-1 tvg-logo="中天娱乐.png" tvg-name="中天娱乐" group-title="港澳台", 中天娱乐
+http://122.146.68.116:4007/VideoInput/play.ts
+#EXTINF:-1 tvg-logo="东森戏剧.png" tvg-name="东森戏剧" group-title="港澳台",东森戏剧
+http://122.146.68.116:4011/VideoInput/play.ts
+#EXTINF:-1 tvg-logo="东森新闻.png" tvg-name="东森新闻" group-title="港澳台",东森新闻
+http://122.146.68.116:4012/VideoInput/play.ts
 
 #EXTINF:-1 tvg-logo="厦门电视台.png" tvg-name="厦门卫视" group-title="地方电视",厦门1套
 http://112.50.243.7/PLTV/88888888/224/3221226814/2.m3u8
