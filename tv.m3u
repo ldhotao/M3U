@@ -197,7 +197,7 @@ http://122.146.68.116:4005/VideoInput/play.ts
 http://122.146.68.116:4007/VideoInput/play.ts
 #EXTINF:-1 tvg-logo="东森戏剧.png" tvg-name="东森戏剧" group-title="港澳台",东森戏剧
 http://122.146.68.116:4011/VideoInput/play.ts
-#EXTINF:-1 tvg-logo=FX电影.png" tvg-name="FX电影" group-title="港澳台",FX电影
+#EXTINF:-1 tvg-logo="FX电影.png" tvg-name="FX电影" group-title="港澳台",FX电影
 http://122.146.68.116:4015/VideoInput/play.ts
 #EXTINF:-1 tvg-logo="CGNTV.png" tvg-name="CGNTV中文台" group-title="港澳台",CGNTV中文台
 http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_ch/playlist.m3u8
