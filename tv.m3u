@@ -168,7 +168,7 @@ http://stream.mastvnet.com/MSTV/SD/live.m3u8
 #EXTINF:-1 tvg-logo="东森电视.png" tvg-name="东森电影台" group-title="港澳台",东森电影台
 http://122.146.68.116:4035/VideoInput/play.ts
 #EXTINF:-1 tvg-logo="东森电视.png" tvg-name="东森洋片台" group-title="港澳台",东森洋片台
-http://122.146.68.116:4035/VideoInput/play.ts
+http://122.146.68.116:4010/VideoInput/play.ts
 #EXTINF:-1 tvg-logo="澳门莲花.png" tvg-name="澳门莲花" group-title="港澳台",莲花卫视
 http://live-rtmp.lotustv.duolaibo.cn/lotustv/5562e9e4d409d24c9600075c.m3u8
 #EXTINF:-1  tvg-logo="好莱坞卫视.png" tvg-name="好莱坞中文卫视" group-title="港澳台",好莱坞中文卫视
