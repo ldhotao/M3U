@@ -179,22 +179,28 @@ http://61.58.60.194:9000/live/31ch.m3u8
 http://zhibo.hkstv.tv/livestream/zb2yhapo/playlist.m3u8
 #EXTINF:-1 tvg-logo="HBO.png" tvg-name="HBO电影HD" group-title="港澳台",HBO电影
 http://218.202.220.2:5000/nn_live.ts?id=HBO#http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8#http://161.0.157.38/PLTV/88888888/224/3221226127/index.m3u8
+#EXTINF:-1 tvg-logo="卫视电影.png" tvg-name="卫视电影HD" group-title="港澳台", 卫视电影HD
+http://122.146.68.116:4016/VideoInput/play.ts
+#EXTINF:-1 tvg-logo="中天.png" tvg-name="中天综合" group-title="港澳台",中天综合
+http://122.146.68.116:4005/VideoInput/play.ts
+#EXTINF:-1 tvg-logo="中天.png" tvg-name="中天娱乐" group-title="港澳台", 中天娱乐
+http://122.146.68.116:4007/VideoInput/play.ts
+#EXTINF:-1 tvg-logo="东森戏剧.png" tvg-name="东森戏剧" group-title="港澳台",东森戏剧
+http://122.146.68.116:4011/VideoInput/play.ts
+#EXTINF:-1 tvg-logo=FX电影.png" tvg-name="FX电影" group-title="港澳台",FX电影
+http://122.146.68.116:4015/VideoInput/play.ts
 #EXTINF:-1 tvg-logo="CGNTV.png" tvg-name="CGNTV中文台" group-title="港澳台",CGNTV中文台
 http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_ch/playlist.m3u8
 #EXTINF:-1 tvg-logo="good1.png" tvg-name="GoodTV好消息" group-title="港澳台",GoodTVGoodTV好消息
 http://live.streamingfast.net/osmflivech1.m3u8
-#EXTINF:-1 tvg-logo="星卫电影.png" tvg-name="星卫电影" group-title="港澳台", 星卫电影台
-http://122.146.68.116:4048/VideoInput/play.ts
-#EXTINF:-1 tvg-logo="卫视电影.png" tvg-name="卫视电影HD" group-title="港澳台", 卫视电影HD
-http://122.146.68.116:4016/VideoInput/play.ts
-#EXTINF:-1 tvg-logo="中天综合.png" tvg-name="中天综合" group-title="港澳台",中天综合
-http://122.146.68.116:4005/VideoInput/play.ts
-#EXTINF:-1 tvg-logo="中天娱乐.png" tvg-name="中天娱乐" group-title="港澳台", 中天娱乐
-http://122.146.68.116:4007/VideoInput/play.ts
-#EXTINF:-1 tvg-logo="东森戏剧.png" tvg-name="东森戏剧" group-title="港澳台",东森戏剧
-http://122.146.68.116:4011/VideoInput/play.ts
-#EXTINF:-1 tvg-logo="东森新闻.png" tvg-name="东森新闻" group-title="港澳台",东森新闻
-http://122.146.68.116:4012/VideoInput/play.ts
+#EXTINF:-1 tvg-logo="探索频道.png" tvg-name="探索亚洲" group-title="港澳台", 探索亚洲台
+http://122.146.68.116:4046/VideoInput/play.ts
+#EXTINF:-1 tvg-logo="华视.png" tvg-name="华视" group-title="港澳台", 华视
+http://122.146.68.116:4070/VideoInput/play.ts
+#EXTINF:-1 tvg-logo="台湾台视.png" tvg-name="台视" group-title="港澳台",台视
+http://122.146.68.116:4077/VideoInput/play.ts
+#EXTINF:-1 tvg-logo="三立.png" tvg-name="三立综合" group-title="港澳台",三立综合
+http://122.146.68.116:4077/VideoInput/play.ts
 
 #EXTINF:-1 tvg-logo="厦门电视台.png" tvg-name="厦门卫视" group-title="地方电视",厦门1套
 http://112.50.243.7/PLTV/88888888/224/3221226814/2.m3u8
