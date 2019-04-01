@@ -163,17 +163,18 @@ http://218.202.220.2:5000/nn_live.ts?id=STARTV
 http://stream.mastvnet.com/MASTV/sd/live.m3u8
 #EXTINF:-1 tvg-logo="澳门卫视.png" tvg-name="澳门卫视" group-title="港澳台",澳门卫视
 http://stream.mastvnet.com/MSTV/SD/live.m3u8
-#EXTINF:-1 tvg-logo="阳光卫视.png" tvg-name="阳光卫视" group-title="港澳台",阳光卫视
-https://stream.chinasuntv.com/680k/mid_video_index.m3u8
+#EXTINF:-1 tvg-logo="东森电视.png" tvg-name="东森电影台" group-title="港澳台",东森电影台
+http://122.146.68.116:4035/VideoInput/play.ts
+#EXTINF:-1 tvg-logo="东森电视.png" tvg-name="东森洋片台" group-title="港澳台",东森洋片台
+http://122.146.68.116:4035/VideoInput/play.ts
 #EXTINF:-1 tvg-logo="澳门莲花.png" tvg-name="澳门莲花" group-title="港澳台",莲花卫视
 http://live-rtmp.lotustv.duolaibo.cn/lotustv/5562e9e4d409d24c9600075c.m3u8
 #EXTINF:-1  tvg-logo="好莱坞卫视.png" tvg-name="好莱坞中文卫视" group-title="港澳台",好莱坞中文卫视
 http://hctvus.webqd.net/live/10505_a1619dd9836811e791eae435c87f075e_550.m3u8
 #EXTINF:-1 tvg-logo="环球电视.png" tvg-name="环球电视" group-title="港澳台",环球电视
 http://live-cdn.xzxwhcb.com/hls/sn88wrar.m3u8
-#EXTINF:-1 tvg-logo="星河.png" tvg-name="TVB星河" group-title="港澳台",TVB星河
-http://slave.pygdzhcs.com:13164/playurl?playtype=live&protocol=1http&accesstoken=R5AF11F6AU30878066K77541996IA249E2DDPBM306AB28WDE06ADB1CA1&programid=4200000107&playtoken=no&auth=no
-
+#EXTINF:-1 tvg-logo="卫视中文台.png" tvg-name="卫视中文" group-title="港澳台",卫视中文台
+http://61.58.60.194:9000/live/31ch.m3u8
 #EXTINF:-1 tvg-logo="香港卫视.png" tvg-name="香港卫视" group-title="港澳台",香港卫视HKS
 http://zhibo.hkstv.tv/livestream/zb2yhapo/playlist.m3u8
 #EXTINF:-1 tvg-logo="HBO.png" tvg-name="HBO电影HD" group-title="港澳台",HBO电影
@@ -184,7 +185,7 @@ http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_ch/playlist.m3u8
 http://live.streamingfast.net/osmflivech1.m3u8
 #EXTINF:-1 tvg-logo="星卫电影.png" tvg-name="星卫电影" group-title="港澳台", 星卫电影台
 http://122.146.68.116:4048/VideoInput/play.ts
-#EXTINF:-1 tvg-logo="卫视电影.png" tvg-name="卫视电影" group-title="港澳台", 卫视电影HD
+#EXTINF:-1 tvg-logo="卫视电影.png" tvg-name="卫视电影HD" group-title="港澳台", 卫视电影HD
 http://122.146.68.116:4016/VideoInput/play.ts
 #EXTINF:-1 tvg-logo="中天综合.png" tvg-name="中天综合" group-title="港澳台",中天综合
 http://122.146.68.116:4005/VideoInput/play.ts
