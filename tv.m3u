@@ -205,6 +205,12 @@ http://122.146.68.116:4070/VideoInput/play.ts
 http://122.146.68.116:4077/VideoInput/play.ts
 #EXTINF:-1 tvg-logo="三立.png" tvg-name="三立综合" group-title="港澳台",三立综合
 http://122.146.68.116:4077/VideoInput/play.ts
+#EXTINF:-1 tvg-logo="CNN.png" tvg-name="CNN" group-title="港澳台",CNN
+http://218.202.220.2:5000/nn_live.ts?id=NN
+#EXTINF:-1 tvg-logo="Skynew.png" tvg-name="Skynew" group-title="港澳台",Skynew
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
+#EXTINF:-1 tvg-logo="France24.png" tvg-name="France24" group-title="港澳台",France24
+http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
 
 #EXTINF:-1 tvg-logo="交通.png" tvg-name="中国交通" group-title="数字网络",中国交通
 http://223.110.242.130:6610/gitv/live1/G_ZHONGGUOJT/G_ZHONGGUOJT/
