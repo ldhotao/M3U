@@ -309,3 +309,22 @@ http://111.40.205.87/PLTV/88888888/224/3221225673/index.m3u8
 http://111.40.205.87/PLTV/88888888/224/3221225681/index.m3u8
 #EXTINF:-1 tvg-logo="N搏击.png" tvg-name="CCTV1" group-title="数字网络",Newtv搏击
 http://111.40.205.87/PLTV/88888888/224/3221225680/index.m3u8
+
+#EXTINF:-1 tvg-logo="郑州.png" tvg-name="郑州都市生活" group-title="数字网络",郑州都市生活频道
+http://111.7.159.139/PLTV/88888888/224/3221226037/index.m3u8
+#EXTINF:-1 tvg-logo="郑州.png" tvg-name="郑州妇女儿童" group-title="数字网络",郑州妇女儿童频道
+http://111.7.159.139/PLTV/88888888/224/3221226036/index.m3u8
+#EXTINF:-1 tvg-logo="郑州.png" tvg-name="郑州商都" group-title="数字网络",郑州商都频道
+http://111.7.159.139/PLTV/88888888/224/3221226032/index.m3u8
+#EXTINF:-1 tvg-logo="郑州.png" tvg-name="郑州商都" group-title="数字网络",郑州商都频道道高清
+http://111.7.159.139/PLTV/88888888/224/3221226028/index.m3u8
+#EXTINF:-1 tvg-logo="郑州.png" tvg-name="郑州文体" group-title="数字网络",郑州文体频道
+http://111.7.159.139/PLTV/88888888/224/3221226033/index.m3u8
+#EXTINF:-1 tvg-logo="郑州.png" tvg-name="郑州文体" group-title="数字网络",郑州文体频道道高清
+http://111.7.159.139/PLTV/88888888/224/3221226029/index.m3u8
+#EXTINF:-1 tvg-logo="郑州.png" tvg-name="郑州新闻综合" group-title="数字网络",郑州新闻综合频道
+http://111.7.159.139/PLTV/88888888/224/3221226030/index.m3u8
+#EXTINF:-1 tvg-logo="郑州.png" tvg-name="郑州新闻综合" group-title="数字网络",郑州新闻综合频道高清
+http://111.7.159.139/PLTV/88888888/224/3221226027/index.m3u8
+#EXTINF:-1 tvg-logo="郑州.png" tvg-name="郑州影视戏曲" group-title="数字网络",郑州影视戏曲频道
+http://111.7.159.139/PLTV/88888888/224/3221226035/index.m3u8
