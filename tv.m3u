@@ -207,14 +207,18 @@ http://live.streamingfast.net/osmflivech1.m3u8
 http://122.146.68.116:4046/VideoInput/play.ts
 #EXTINF:-1 tvg-logo="探索频道.png" tvg-name="探索频道" group-title="港澳台",求索纪录频道
 http://112.17.40.140/PLTV/88888888/224/3221226610/index.m3u8
+#EXTINF:-1 tvg-logo="探索频道.png" tvg-name="探索频道" group-title="港澳台",探索纪台湾
+http://61.58.60.194:9000/live/19ch.m3u8
 #EXTINF:-1 tvg-logo="国家地理.png" tvg-name="国家地理" group-title="港澳台", 国家地理
-http://122.146.68.116:4020/VideoInput/play.ts
+http://122.146.68.116:4020/VideoInput/play.ts#http://61.58.60.194:9000/live/18ch.m3u8
+#EXTINF:-1 tvg-logo="国家地理.png" tvg-name="国家地理" group-title="港澳台", 国家台湾
+http://61.58.60.194:9000/live/18ch.m3u8
 #EXTINF:-1 tvg-logo="华视.png" tvg-name="华视" group-title="港澳台", 华视
 http://122.146.68.116:4070/VideoInput/play.ts
 #EXTINF:-1 tvg-logo="台湾台视.png" tvg-name="台视" group-title="港澳台",台视
 http://122.146.68.116:4077/VideoInput/play.ts
-#EXTINF:-1 tvg-logo="三立.png" tvg-name="三立综合" group-title="港澳台",三立综合
-http://122.146.68.116:4075/VideoInput/play.ts
+#EXTINF:-1 tvg-logo="MTV.png" tvg-name="MTV" group-title="港澳台",MTV音乐台HD
+http://61.58.60.194:9000/live/95ch.m3u8
 #EXTINF:-1 tvg-logo="CNN.png" tvg-name="CNN" group-title="港澳台",CNN
 http://218.202.220.2:5000/nn_live.ts?id=CNN
 #EXTINF:-1 tvg-logo="Skynew.png" tvg-name="Skynew" group-title="港澳台",Skynew
