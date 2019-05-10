@@ -170,33 +170,33 @@ http://stream.mastvnet.com/MASTV/sd/live.m3u8
 #EXTINF:-1 tvg-logo="澳门卫视.png" tvg-name="澳门卫视" group-title="港澳台",澳门卫视
 http://stream.mastvnet.com/MSTV/SD/live.m3u8
 #EXTINF:-1 tvg-logo="阳光卫视.png" tvg-name="阳光卫视" group-title="港澳台",阳光卫视
-http://123.249.76.157:10019/bysid/16
-#EXTINF:-1 tvg-logo="东森电视.png" tvg-name="东森电影台" group-title="港澳台",东森电影台
-http://122.146.68.116:4035/VideoInput/play.ts
-#EXTINF:-1 tvg-logo="东森电视.png" tvg-name="东森洋片台" group-title="港澳台",东森洋片台
-http://122.146.68.116:4010/VideoInput/play.ts
+http://220.158.149.14:9999/live/TV00000000000000000062@HHZT;LIVE
+#EXTINF:-1 tvg-logo="东森幼幼.png" tvg-name="东森幼幼" group-title="港澳台",东森幼幼
+http://220.158.149.14:9999/live/TV00000000000000000076@HHZT;LIVE
+#EXTINF:-1 tvg-logo="TVBS.png" tvg-name="TVBS新闻" group-title="港澳台",TVBS新闻
+http://220.158.149.14:9999/live/TV00000000000000000082@HHZT;LIVE
 #EXTINF:-1 tvg-logo="澳门莲花.png" tvg-name="澳门莲花" group-title="港澳台",莲花卫视
 http://live-rtmp.lotustv.duolaibo.cn/lotustv/5562e9e4d409d24c9600075c.m3u8
 #EXTINF:-1  tvg-logo="好莱坞卫视.png" tvg-name="好莱坞中文卫视" group-title="港澳台",好莱坞中文卫视
 http://hctvus.webqd.net/live/10505_a1619dd9836811e791eae435c87f075e_550.m3u8
 #EXTINF:-1 tvg-logo="环球电视.png" tvg-name="环球电视" group-title="港澳台",环球电视
 http://live-cdn.xzxwhcb.com/hls/sn88wrar.m3u8
-#EXTINF:-1 tvg-logo="卫视中文台.png" tvg-name="卫视中文" group-title="港澳台",卫视中文台
-http://61.58.60.194:9000/live/31ch.m3u8
+#EXTINF:-1 tvg-logo="ANX.png" tvg-name="ANX电影台" group-title="港澳台",ANX电影台
+http://220.158.149.14:9999/live/TV00000000000000000108@HHZT;LIVE
 #EXTINF:-1 tvg-logo="香港卫视.png" tvg-name="香港卫视" group-title="港澳台",香港卫视HKS
 http://zhibo.hkstv.tv/livestream/zb2yhapo/playlist.m3u8
 #EXTINF:-1 tvg-logo="HBO.png" tvg-name="HBO电影HD" group-title="港澳台",HBO电影
-http://218.202.220.2:5000/nn_live.ts?id=HBO#http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8#http://161.0.157.38/PLTV/88888888/224/3221226127/index.m3u8
+http://220.158.149.14:9999/live/TV00000000000000000166@HHZT;LIVE
 #EXTINF:-1 tvg-logo="RH31.png" tvg-name="RH31" group-title="港澳台",RH31
 http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8
 #EXTINF:-1 tvg-logo="卫视电影.png" tvg-name="卫视电影HD" group-title="港澳台", 卫视电影HD
-http://122.146.68.116:4016/VideoInput/play.ts#http://61.58.60.194:9000/live/61ch.m3u8
-#EXTINF:-1 tvg-logo="中天.png" tvg-name="中天综合" group-title="港澳台",中天综合
-http://122.146.68.116:4005/VideoInput/play.ts
-#EXTINF:-1 tvg-logo="中天.png" tvg-name="中天娱乐" group-title="港澳台", 中天娱乐
-http://122.146.68.116:4007/VideoInput/play.ts
-#EXTINF:-1 tvg-logo="东森戏剧.png" tvg-name="东森戏剧" group-title="港澳台",东森戏剧
-http://122.146.68.116:4011/VideoInput/play.ts
+http://122.146.68.116:4048/VideoInput/play.ts
+#EXTINF:-1 tvg-logo="CNEX纪实.png" tvg-name="CNEX纪实" group-title="港澳台",CNEX纪实
+http://220.158.149.14:9999/live/TV00000000000000000083@HHZT;LIVE
+#EXTINF:-1 tvg-logo="VL体育台.png" tvg-name="VL体育台VL体育台" group-title="港澳台", VL体育台
+http://220.158.149.14:9999/live/TV00000000000000000078@HHZT;LIVE
+#EXTINF:-1 tvg-logo="卫视點心.png" tvg-name="卫视點心" group-title="港澳台",卫视點心
+http://220.158.149.14:9999/live/TV00000000000000000035@HHZT;LIVE
 #EXTINF:-1 tvg-logo="FX电影.png" tvg-name="FX电影" group-title="港澳台",FX电影
 http://122.146.68.116:4015/VideoInput/play.ts
 #EXTINF:-1 tvg-logo="CGNTV.png" tvg-name="CGNTV中文台" group-title="港澳台",CGNTV中文台
@@ -204,13 +204,13 @@ http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_ch/playlist.m3u8
 #EXTINF:-1 tvg-logo="good1.png" tvg-name="GoodTV好消息" group-title="港澳台",GoodTVGoodTV好消息
 http://live.streamingfast.net/osmflivech1.m3u8
 #EXTINF:-1 tvg-logo="探索频道.png" tvg-name="探索亚洲" group-title="港澳台", 探索亚洲台
+http://220.158.149.14:9999/live/TV00000000000000000114@HHZT;LIVE
+#EXTINF:-1 tvg-logo="神州卫视.png" tvg-name="神州卫视" group-title="港澳台",神州卫视
+http://220.158.149.14:9999/live/TV00000000000000000002@HHZT;LIVE
+#EXTINF:-1 tvg-logo="FOX体育.png" tvg-name="FOX体育3" group-title="港澳台",FOX体育3
+http://122.146.68.116:4047/VideoInput/play.ts
+#EXTINF:-1 tvg-logo="国家地理.png" tvg-name="国家地理" group-title="港澳台", 探索纪
 http://122.146.68.116:4046/VideoInput/play.ts
-#EXTINF:-1 tvg-logo="探索频道.png" tvg-name="探索频道" group-title="港澳台",求索纪录频道
-http://112.17.40.140/PLTV/88888888/224/3221226610/index.m3u8
-#EXTINF:-1 tvg-logo="探索频道.png" tvg-name="探索频道" group-title="港澳台",探索纪台湾
-http://61.58.60.194:9000/live/19ch.m3u8
-#EXTINF:-1 tvg-logo="国家地理.png" tvg-name="国家地理" group-title="港澳台", 国家地理
-http://122.146.68.116:4020/VideoInput/play.ts#http://61.58.60.194:9000/live/18ch.m3u8
 #EXTINF:-1 tvg-logo="国家地理.png" tvg-name="国家地理" group-title="港澳台", 国家台湾
 http://61.58.60.194:9000/live/18ch.m3u8
 #EXTINF:-1 tvg-logo="华视.png" tvg-name="华视" group-title="港澳台", 华视
@@ -218,7 +218,9 @@ http://122.146.68.116:4070/VideoInput/play.ts
 #EXTINF:-1 tvg-logo="台湾台视.png" tvg-name="台视" group-title="港澳台",台视
 http://122.146.68.116:4077/VideoInput/play.ts
 #EXTINF:-1 tvg-logo="MTV.png" tvg-name="MTV" group-title="港澳台",MTV音乐台HD
-http://61.58.60.194:9000/live/95ch.m3u8
+http://220.158.149.14:9999/live/TV00000000000000000111@HHZT;LIVE
+#EXTINF:-1 tvg-logo="V.png" tvg-name="cHANNEL [V]" group-title="港澳台",[V]音乐台HD
+http://220.158.149.14:9999/live/TV00000000000000000065@HHZT;LIVE
 #EXTINF:-1 tvg-logo="CNN.png" tvg-name="CNN" group-title="港澳台",CNN
 http://218.202.220.2:5000/nn_live.ts?id=CNN
 #EXTINF:-1 tvg-logo="Skynew.png" tvg-name="Skynew" group-title="港澳台",Skynew
@@ -227,6 +229,14 @@ http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
 http://123.249.76.157:10018/bysid/25
 #EXTINF:-1 tvg-logo="CN卡通.png" tvg-name="CN卡通" group-title="港澳台",CN卡通
 http://123.249.76.157:10016/bysid/5
+#EXTINF:-1 tvg-logo="动物星球频道.png" tvg-name="动物星球频道" group-title="港澳台",动物星球频道
+http://123.249.76.157:10024/bysid/152
+#EXTINF:-1 tvg-logo="FTV.png" tvg-name="法国时尚频道" group-title="港澳台",法国时尚频道
+http://220.158.149.14:9999/live/TV00000000000000000113@HHZT;LIVE
+#EXTINF:-1 tvg-logo="CTV8.png" tvg-name="CTV8" group-title="港澳台",CTV8
+http://220.158.149.14:9999/live/TV00000000000000000037@HHZT;LIVE
+#EXTINF:-1 tvg-logo="RT.png" tvg-name="RT" group-title="港澳台",今日俄罗斯
+http://220.158.149.14:9999/live/TV00000000000000000061@HHZT;LIVE
 
 
 
@@ -369,3 +379,11 @@ http://111.7.159.139/PLTV/88888888/224/3221225991/index.m3u8
 http://111.7.159.139/PLTV/88888888/224/3221225945/index.m3u8
 #EXTINF:-1 tvg-logo="河南.png" tvg-name="开封新闻综合" group-title="数字网络",河南移动戏曲高清
 http://111.7.159.139/PLTV/88888888/224/3221226003/index.m3u8
+#EXTINF:-1 tvg-logo="哈尔滨.png" tvg-name="哈尔滨娱乐" group-title="数字网络",哈尔滨娱乐
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225759/index.m3u8
+#EXTINF:-1 tvg-logo="哈尔滨.png" tvg-name="哈尔滨影视" group-title="数字网络",哈尔滨影视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225760/index.m3u8
+#EXTINF:-1 tvg-logo="哈尔滨.png" tvg-name="哈尔滨资讯" group-title="数字网络",哈尔滨资讯
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225761/index.m3u8
+#EXTINF:-1 tvg-logo="哈尔滨.png" tvg-name="哈尔滨资讯" group-title="数字网络",哈尔滨生活
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225762/index.m3u8
