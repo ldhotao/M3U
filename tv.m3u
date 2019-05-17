@@ -156,9 +156,9 @@ http://223.110.242.130:6610/gitv/live1/G_KAKU/G_KAKU/#http://223.110.245.143/ott
 http://scgctvshow.sctv.com/hdlive/emei/3.m3u8
 
 #EXTINF:-1 tvg-logo="凤凰中文.png" tvg-name="凤凰卫视" group-title="港澳台",凤凰卫视
-http://111.40.205.87/PLTV/88888888/224/3221225684/index.m3u8
+http://112.50.243.10/PLTV/88888888/224/3221225900/3.m3u8
 #EXTINF:-1 tvg-logo="凤凰资讯.png" tvg-name="凤凰资讯" group-title="港澳台",凤凰资讯
-http://111.40.205.87/PLTV/88888888/224/3221225686/index.m3u8
+http://112.50.243.10/PLTV/88888888/224/3221225901/3.m3u8
 #EXTINF:-1 tvg-logo="凤凰香港.png" tvg-name="凤凰香港" group-title="港澳台",凤凰香港
 http://183.207.249.34/PLTV/3/224/3221226975/index.m3u8
 #EXTINF:-1 tvg-logo="凤凰电影.png" tvg-name="凤凰电影" group-title="港澳台",凤凰电影
