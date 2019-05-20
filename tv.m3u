@@ -134,7 +134,8 @@ http://223.110.242.130:6610/gitv/live1/G_KANGBA/G_KANGBA/#http://183.207.248.15/
 http://223.110.242.130:6610/gitv/live1/G_BINGTUAN/G_BINGTUAN/#http://183.207.248.15/PLTV/2/224/3221226085/index.m3u8
 #EXTINF:-1 tvg-logo="陕西农林.png" tvg-name="农林卫视" group-title="卫视",农林卫视
 http://223.110.241.204:6610/gitv/live1/G_NONGLIN/G_NONGLIN/
-http://112.50.243.8/PLTV/88888888/224/3221226781/1.m3u8#http://223.110.242.130:6610/gitv/live1/G_XIAMEN/G_XIAMEN/#http://183.207.248.15/PLTV/2/224/3221226093/index.m3u8
+#EXTINF:-1 tvg-logo="厦门.png" tvg-name="厦门卫视" group-title="卫视",厦门卫视
+http://223.110.241.204:6610/gitv/live1/G_XIAMEN/G_XIAMEN/
 #EXTINF:-1 tvg-logo="南方.png" tvg-name="南方卫视" group-title="卫视",南方卫视
 http://223.110.242.130:6610/gitv/live1/G_NANFANG/G_NANFANG/#http://183.207.248.15/PLTV/4/224/3221227005/index.m3u8#http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221227005/index.m3u8
 #EXTINF:-1 tvg-logo="延边.png" tvg-name="延边卫视" group-title="卫视",延边卫视
