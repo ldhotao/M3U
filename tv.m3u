@@ -186,7 +186,7 @@ http://220.158.149.14:9999/live/TV00000000000000000108@HHZT;LIVE
 #EXTINF:-1 tvg-logo="香港卫视.png" tvg-name="香港卫视" group-title="港澳台",香港卫视HKS
 http://zhibo.hkstv.tv/livestream/zb2yhapo/playlist.m3u8
 #EXTINF:-1 tvg-logo="HBO.png" tvg-name="HBO电影HD" group-title="港澳台",HBO电影
-http://220.158.149.14:9999/live/TV00000000000000000166@HHZT;LIVE
+http://218.202.220.2:5000/nn_live.ts?id=HBO
 #EXTINF:-1 tvg-logo="RH31.png" tvg-name="RH31" group-title="港澳台",RH31
 http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8
 #EXTINF:-1 tvg-logo="卫视电影.png" tvg-name="卫视电影HD" group-title="港澳台", 卫视电影HD
