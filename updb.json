@@ -18,7 +18,7 @@
 			{"epg":"cntv-cctvchild","title":"CCTV-14 少儿","url":"http://itv.ahau.edu.cn/hls/cctv14hd.m3u8"},
 			{"epg":"cntv-cctv15","title":"CCTV-15音乐","url":"http://itv.ahau.edu.cn/hls/cctv15.m3u8"},
 			{"epg":"cntv-cctv17","title":"CCTV-17军事","url":"http://itv.ahau.edu.cn/hls/cctv17hd.m3u8"},			
-			],		],
+			],
 	"卫视":
 			[
 			{"epg":"cntv-anhui,","title":"安徽卫视","url":"http://itv.ahau.edu.cn/hls/ahhd.m3u8"},
