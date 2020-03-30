@@ -1,0 +1,37 @@
+﻿{
+	"央视":
+			[
+			{"epg":"cntv-cctv1","title":"CCTV-1 综合","url":"http://itv.ahau.edu.cn/hls/cctv1hd.m3u8"},
+			{"epg":"cntv-cctv2","title":"CCTV-2 财经","url":"http://itv.ahau.edu.cn/hls/cctv2hd.m3u8"},
+			{"epg":"cntv-cctv3","title":"CCTV-3 综艺","url":"http://itv.ahau.edu.cn/hls/cctv3hd.m3u8"},
+			{"epg":"cntv-cctv4","title":"CCTV-4 国际","url":"http://itv.ahau.edu.cn/hls/cctv4hd.m3u8"},
+			{"epg":"cntv-cctv5,","title":"CCTV-5体育","url":"http://itv.ahau.edu.cn/hls/cctv1hd.m3u8"},
+			{"epg":"cntv-cctv5plus","title":"CCTV-5体育赛事","url":"http://itv.ahau.edu.cn/hls/cctv5phd.m3u8"},
+			{"epg":"cntv-cctv6","title":"CCTV-6 电影","url":"http://itv.ahau.edu.cn/hls/cctv6hd.m3u8"},
+			{"epg":"cntv-cctv7","title":"CCTV-7农业","url":"http://itv.ahau.edu.cn/hls/cctv7hd.m3u8"},
+			{"epg":"cntv-cctv8","title":"CCTV-8电视剧","url":"http://itv.ahau.edu.cn/hls/cctv8hd.m3u8"},
+			{"epg":"cntv-cctvjilu","title":"CCTV-9记录","url":"http://itv.ahau.edu.cn/hls/cctv9hd.m3u8"},
+			{"epg":"cntv-cctv10","title":"CCTV-10科教","url":"http://itv.ahau.edu.cn/hls/cctv10hd.m3u8"},
+			{"epg":"cntv-cctv11","title":"CCTV-11戏曲","url":"http://itv.ahau.edu.cn/hls/cctv11.m3u8"},
+			{"epg":"cntv-cctv12","title":"CCTV-12 社会与法 ","url":"http://itv.ahau.edu.cn/hls/cctv12hd.m3u8"},
+			{"epg":"cntv-cctv13","title":"CCTV-13新闻 ","url":"http://itv.ahau.edu.cn/hls/cctv13.m3u8"},
+			{"epg":"cntv-cctvchild","title":"CCTV-14 少儿","url":"http://itv.ahau.edu.cn/hls/cctv14hd.m3u8"},
+			{"epg":"cntv-cctv15","title":"CCTV-15音乐","url":"http://itv.ahau.edu.cn/hls/cctv15.m3u8"},
+			{"epg":"cntv-cctv17","title":"CCTV-17军事","url":"http://itv.ahau.edu.cn/hls/cctv17hd.m3u8"},			
+			],		],
+	"卫视":
+			[
+			{"epg":"cntv-anhui,","title":"安徽卫视","url":"http://itv.ahau.edu.cn/hls/ahhd.m3u8"},
+			{"epg":"cntv-btv1","title":"北京卫视","url":"http://itv.ahau.edu.cn/hls/bjhd.m3u8"}
+			],
+	"港澳台":
+			[
+			{"epg":"TV1","title":"凤凰中文","url":"http://itv.ahau.edu.cn/hls/fhzw.m3u8"},
+			{"epg":"TV2","title":"凤凰资讯","url":"http://itv.ahau.edu.cn/hls/fhzx.m3u8"}
+			],
+	"数字网络":
+			[
+			{"epg":"TV1","title":"都市剧场","url":"http://itv.ahau.edu.cn/PLTV/2/224/3221226029/2.m3u8"},
+			{"epg":"TV2","title":"欢笑剧场","url":",http://itv.ahau.edu.cn/PLTV/2/224/3221226031/2.m3u8"}
+			]
+}
