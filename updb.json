@@ -28,6 +28,11 @@
 			[
 			{"epg":"TV1","title":"凤凰中文","url":"http://itv.ahau.edu.cn/hls/fhzw.m3u8"},
 			{"epg":"TV2","title":"凤凰资讯","url":"http://itv.ahau.edu.cn/hls/fhzx.m3u8"}
+			{"epg":"TV2","title":"凤凰电影","url":"https://116.77.72.195/streams/d/fhdy/playlist.m3u8"}
+			{"epg":"TV2","title":"TVB星河","url":"https://116.77.72.195/streams/d/tvbxh/playlist.m3u8"}
+			{"epg":"TV2","title":"MTV音乐","url":"https://116.77.72.195/streams/d/mtv/playlist.m3u8"}
+			{"epg":"TV2","title":"星空卫视","url":"https://116.77.72.195/streams/d/xkws/playlist.m3u8"}
+				
 			],
 	"数字网络":
 			[
